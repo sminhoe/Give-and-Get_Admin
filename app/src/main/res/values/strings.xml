@@ -12,7 +12,8 @@
     <string name="sign_in_up_error">Error. Please check your email or password.</string>
     <string name="sign_in_pg">Already a member? Login now!</string>
     <string name="reset_pw_msg">We have sent you instructions to reset your password.</string>
-    <string name="reset_pw_msgfail">Failed to send reset email.</string>
+    <string name="reset_pw_msgfail">Failed to send reset password.</string>
+    <string name="change_ps">Password changed. Please sign in.</string>
 
     <string name="addfood_success">Food added.</string>
     <string name="addfood_fail">Error. Please try again..</string>

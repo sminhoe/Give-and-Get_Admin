@@ -25,7 +25,8 @@
         <activity android:name=".UserActivity" />
         <activity android:name=".FoodActivity" />
         <activity android:name=".RequestActivity" />
-        <activity android:name=".AddFoodActivity"></activity>
+        <activity android:name=".AddFoodActivity" />
+        <activity android:name=".ForgotPwActivity" />
     </application>
 
 </manifest>
